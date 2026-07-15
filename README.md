@@ -1,4 +1,4 @@
-<!-- Banner -->
+<!-- ========================= HEADER ========================= -->
 
 <h1 align="center">Hi 👋, I'm M Pavan Srikar</h1>
 
@@ -7,7 +7,7 @@ Electronics & Communication Engineering Student @ IIT (ISM) Dhanbad
 </h3>
 
 <p align="center">
-🚀 Machine Learning Enthusiast • 💻 Competitive Programmer • 🤖 AI Developer • 📊 Kaggle Competitor
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Machine+Learning+Enthusiast;Competitive+Programmer;AI+Developer;Kaggle+Competitor;Open+Source+Contributor" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@ Electronics & Communication Engineering Student @ IIT (ISM) Dhanbad
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+<a href="https://github.com/PavanSrikar2007" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -39,95 +39,99 @@ Electronics & Communication Engineering Student @ IIT (ISM) Dhanbad
 # 🚀 About Me
 
 🎓 **B.Tech in Electronics & Communication Engineering**  
-**Indian Institute of Technology (ISM), Dhanbad**
+📍 **Indian Institute of Technology (ISM), Dhanbad**
 
 💡 Passionate about
 
 - 🤖 Machine Learning
 - 🧠 Deep Learning
-- 💬 Natural Language Processing (NLP)
+- 💬 Natural Language Processing
 - 💻 Competitive Programming
 - 🌍 Open Source
 
-🌱 **Currently Learning**
+🌱 Currently Exploring
 
-- Advanced Data Structures & Algorithms
 - Large Language Models (LLMs)
 - MLOps
+- Advanced Data Structures & Algorithms
 - System Design
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 ### 💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,c,java"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java" />
 </p>
 
-### 🤖 AI / Machine Learning
+### 🤖 Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-- Scikit-Learn
-- XGBoost
-- Transformers
-- BERT
-- LSTM
-- NLP
+<p align="center">
+
+Scikit-Learn • XGBoost • Transformers • BERT • LSTM • NLP
+
+</p>
 
 ### ⚙️ Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,flask,vscode"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,flask,vscode,linux" />
 </p>
 
 ---
 
-# 📌 Featured Projects
+# 🏆 Featured Projects
 
-### 🐦 Twitter Sentiment Analysis
+## 🐦 Twitter Sentiment Analysis
 
-> BERT + BiLSTM • TensorFlow • Streamlit • **98.45% Accuracy**
-
----
-
-### 🩺 Lung Cancer Prediction
-
-> TensorFlow • Flask • SHAP Explainability
+- BERT + BiLSTM
+- TensorFlow
+- Streamlit
+- **98.45% Accuracy**
 
 ---
 
-### 📚 Book Recommendation System
+## 🩺 Lung Cancer Prediction
 
-> Personalized recommendation engine using Machine Learning.
-
----
-
-### 🏆 Kaggle Competitions
-
-> Collection of notebooks, experiments, and competition solutions.
+- TensorFlow
+- Flask
+- SHAP Explainability
 
 ---
 
-### 💻 Codeforces Solutions
+## 📚 Book Recommendation System
 
-> Accepted C++ solutions organized by contest and problem.
+Personalized recommendation engine using Machine Learning.
+
+---
+
+## 🏅 Kaggle Competitions
+
+Solutions, notebooks, and experiments for Kaggle competitions.
+
+---
+
+## 💻 Codeforces Solutions
+
+Accepted C++ solutions organized by contest.
 
 ---
 
 # 🏅 Achievements
 
-🥉 **3× Kaggle Notebook Bronze Medals**
+🥉 3× Kaggle Notebook Bronze Medals
 
-🏆 **Google Student Upskilling Launchpad (Google India)**
+🏆 Google Student Upskilling Launchpad (Google India)
 
-💻 **230+ Competitive Programming Problems Solved**
+💻 230+ Competitive Programming Problems Solved
 
-🌍 **Open Source Contributor**
+🌍 Open Source Contributor
 
 ---
 
@@ -135,15 +139,19 @@ Electronics & Communication Engineering Student @ IIT (ISM) Dhanbad
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PavanSrikar2007&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanSrikar2007&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
+---
+
+# 🔥 GitHub Streak
+
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=PavanSrikar2007&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -153,7 +161,17 @@ Electronics & Communication Engineering Student @ IIT (ISM) Dhanbad
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PavanSrikar2007&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PavanSrikar2007&theme=tokyonight&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -163,23 +181,28 @@ Electronics & Communication Engineering Student @ IIT (ISM) Dhanbad
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/PavanSrikar2007/PavanSrikar2007/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
-# 📫 Connect with Me
+# 📫 Connect With Me
 
-📧 **Email:** **mpavansrikar2007@gmail.com**
+📧 **Email:**  
+**mpavansrikar2007@gmail.com**
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/marpini-pavan-srikar/
+🔗 **LinkedIn**  
+https://www.linkedin.com/in/marpini-pavan-srikar/
 
-📊 **Kaggle:** https://www.kaggle.com/marpinipavansrikar
+📊 **Kaggle**  
+https://www.kaggle.com/marpinipavansrikar
 
-💻 **Codeforces:** https://codeforces.com/profile/mpavansrikar2007
+💻 **Codeforces**  
+https://codeforces.com/profile/mpavansrikar2007
 
-🍽️ **CodeChef:** https://www.codechef.com/users/mpavansrikar
+🍽️ **CodeChef**  
+https://www.codechef.com/users/mpavansrikar
 
 ---
 
