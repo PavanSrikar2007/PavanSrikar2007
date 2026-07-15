@@ -1,33 +1,161 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599c&height=250&section=header&text=M%20Pavan%20Srikar&fontSize=55&fontAlignY=40&desc=ECE%20%40%20IIT%20(ISM)%20Dhanbad%20%7C%20AI/ML%20%26%20Competitive%20Programming&descSize=18&descAlignY=62&theme=dark" alt="Pavan Srikar Banner" />
-</p>
-
-<h1 align="center">Hey there 👋, I'm M Pavan Srikar</h1>
+<!-- Banner -->
+<h1 align="center">Hi 👋, I'm M Pavan Srikar</h1>
+<h3 align="center">Electronics & Communication Engineering Student @ IIT (ISM) Dhanbad</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PRONOUNS-He%2FHim-blue?style=flat-square" alt="Pronouns" />
-  <img src="https://img.shields.io/github/followers/PavanSrikar2007?label=Followers&style=flat-square&color=blue" alt="Followers" />
+🚀 Machine Learning Enthusiast • 💻 Competitive Programmer • 🧠 AI Developer • 📊 Kaggle Competitor
 </p>
 
 <p align="center">
-  <strong>🎓 B.Tech in ECE @ IIT (ISM) Dhanbad | 🤖 AI/ML & Deep Learning | 🏆 Competitive Programmer | 📊 Kaggle Enthusiast</strong>
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/marpini-pavan-srikar/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="YOUR_KAGGLE_URL"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="YOUR_CODEFORCES_URL"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="YOUR_CODECHEF_URL"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/></a>
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-```javascript
-const PavanSrikar = {
-    pronouns: "He/Him",
-    location: "Dhanbad, Jharkhand, India 🇮🇳",
-    education: "B.Tech in Electronics & Communication Engineering @ IIT (ISM) Dhanbad",
-    currentRole: "Student & Aspiring Machine Learning Engineer",
-    achievements: [
-        "Google Student Upskilling Launchpad Selected Candidate",
-        "Kaggle 3x Bronze Medals in Notebooks",
-        "CodeChef 2★ & active Codeforces problem solver"
-    ],
-    interests: ["AI/ML", "Competitive Programming", "Deep Learning", "NLP"],
-    motto: "Combining algorithmic logic with intelligent data modeling to build real-world systems ⚡"
-};
+🎓 B.Tech in Electronics & Communication Engineering at **IIT (ISM) Dhanbad**
+
+💡 Passionate about
+- Machine Learning
+- Deep Learning
+- NLP
+- Competitive Programming
+- Open Source
+
+🌱 Currently Learning
+- Advanced DSA
+- Large Language Models
+- MLOps
+- System Design
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,c,java,git"/>
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
+
+- Scikit-Learn
+- XGBoost
+- Transformers
+- BERT
+- LSTM
+- NLP
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=github,docker,flask,vscode"/>
+</p>
+
+---
+
+# 📌 Featured Projects
+
+### 🐦 Twitter Sentiment Analysis
+
+- BERT + BiLSTM
+- TensorFlow
+- Streamlit
+- 98.45% Accuracy
+
+---
+
+### 🩺 Lung Cancer Prediction
+
+- Deep Learning
+- Flask
+- SHAP Explainability
+- TensorFlow
+
+---
+
+### 📚 Book Recommendation System
+
+Machine Learning based personalized recommendation engine.
+
+---
+
+### 🏆 Kaggle Competitions
+
+Solutions and notebooks for Kaggle competitions.
+
+---
+
+### 💻 Codeforces Solutions
+
+Accepted C++ solutions organized by contest.
+
+---
+
+# 🏅 Achievements
+
+🏆 Google Student Upskilling Launchpad (Google India)
+
+🥉 3× Kaggle Notebook Bronze Medals
+
+💻 230+ Competitive Programming Problems Solved
+
+⭐ Active Open Source Contributor
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+
+</p>
+
+---
+
+# 📫 Connect with Me
+
+📧 mpavansrikar2007@gmail.com
+
+💼 LinkedIn
+
+📊 Kaggle
+
+💻 Codeforces
+
+☕ Always open to collaborating on AI, Machine Learning, and Open Source projects.
+
+---
+
+⭐ Thanks for visiting my profile!
